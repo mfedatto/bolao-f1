@@ -1,0 +1,24 @@
+{
+	"power-unities": [
+		{
+			"id": "ferrari",
+			"name": "Ferrari"
+		},
+		{
+			"id": "honda",
+			"name": "Honda"
+		},
+		{
+			"id": "renault",
+			"name": "Renaul R.E.20"
+		},
+		{
+			"id": "mercedes",
+			"name": "Mercedes"
+		},
+		{
+			"id": "bwt-mercedes",
+			"name": "BWT Mercedes"
+		}
+	]
+}

@@ -1,0 +1,74 @@
+{
+	"teams": [
+		{
+			"id": "alfa-romeo",
+			"name": "Alfa Romeo Racing Orlen",
+			"aka": "Alfa Romeo",
+			"constructor-id": "alfa-romeo-ferrari",
+			"country": "CH"
+		},
+		{
+			"id": "alphaTauri",
+			"name": "Scuderia AlphaTauri Honda",
+			"aka": "AlphaTauri",
+			"constructor-id": "alphaTauri-honda",
+			"country": "IT"
+		},
+		{
+			"id": "ferrari",
+			"name": "Scuderia Ferrari Mission Winnow",
+			"aka": "Ferrari",
+			"constructor-id": "ferrari",
+			"country": "IT"
+		},
+		{
+			"id": "haas",
+			"name": "Haas F1 Team",
+			"aka": "Haas",
+			"constructor-id": "haas-ferrari",
+			"country": "US"
+		},
+		{
+			"id": "mcLaren",
+			"name": "McLaren F1 Team",
+			"aka": "McLaren",
+			"constructor-id": "mcLaren-renault",
+			"country": "GB"
+		},
+		{
+			"id": "mercedes",
+			"name": "Mercedes-AMG Petronas Formula One Team",
+			"aka": "Mercedes",
+			"constructor-id": "mercedes",
+			"country": "DE"
+		},
+		{
+			"id": "racing-point",
+			"name": "SportPesa Racing Point F1 Team",
+			"aka": "Racing Point",
+			"constructor-id": "racing-point",
+			"country": "GB"
+		},
+		{
+			"id": "red-bull",
+			"name": "Aston Martin Red Bull Racing",
+			"aka": "Red Bull",
+			"constructor-id": "red-bull",
+			"country": "AT"
+		},
+		{
+			"id": "renault",
+			"name": "Renault F1 Team",
+			"aka": "Renault",
+			"constructor-id": "renault",
+			"country": "FR"
+		},
+		{
+			"id": "williams",
+			"name": "ROKiT Williams Racing",
+			"aka": "Williams",
+			"constructor-id": "williams-mercedes",
+			"country": "GB"
+		}
+	]
+}

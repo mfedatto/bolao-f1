@@ -1,0 +1,202 @@
+{
+	"grands-prix": [
+		{
+			"id": "australian-gp",
+			"name": "Australian Grand Prix",
+			"circuit": "Australia Melbourne Grand Prix Circuit",
+			"country": "AU",
+			"city": "Melbourne",
+			"round": 1,
+			"date": "2020-03-15 00:00:00 UTC"
+		},
+		{
+			"id": "bahrain-gp",
+			"name": "Bahrain Grand Prix",
+			"circuit": "Bahrain Bahrain International Circuit",
+			"country": "BH",
+			"city": "Sakhir",
+			"round": 2,
+			"date": "2020-03-22 00:00:00 UTC"
+		},
+		{
+			"id": "vietnamese-gp",
+			"name": "Vietnamese Grand Prix",
+			"circuit": "Vietnam Hanoi Street Circuit",
+			"country": "VN",
+			"city": "Hanoi",
+			"round": 3,
+			"date": "2020-04-05 00:00:00 UTC"
+		},
+		{
+			"id": "chinese-gp",
+			"name": "Chinese Grand Prix",
+			"circuit": "China Shanghai International Circuit",
+			"country": "CN",
+			"city": "Shanghai",
+			"round": 4,
+			"date": "2020-04-19 00:00:00 UTC"
+		},
+		{
+			"id": "dutch-gp",
+			"name": "Dutch Grand Prix",
+			"circuit": "Netherlands Circuit Zandvoort",
+			"country": "NL",
+			"city": "Zandvoort",
+			"round": 5,
+			"date": "2020-05-03 00:00:00 UTC"
+		},
+		{
+			"id": "spanish-gp",
+			"name": "Spanish Grand Prix",
+			"circuit": "Spain Circuit de Barcelona-Catalunya",
+			"country": "ES",
+			"city": "Barcelona",
+			"round": 6,
+			"date": "2020-05-10 00:00:00 UTC"
+		},
+		{
+			"id": "monaco-gp",
+			"name": "Monaco Grand Prix",
+			"circuit": "Monaco Circuit de Monaco",
+			"country": "MC",
+			"city": "Monte Carlo",
+			"round": 7,
+			"date": "2020-05-24 00:00:00 UTC"
+		},
+		{
+			"id": "azerbaijan-gp",
+			"name": "Azerbaijan Grand Prix",
+			"circuit": "Azerbaijan Baku City Circuit",
+			"country": "AZ",
+			"city": "Baku",
+			"round": 8,
+			"date": "2020-06-07 00:00:00 UTC"
+		},
+		{
+			"id": "canadian-gp",
+			"name": "Canadian Grand Prix",
+			"circuit": "Canada Circuit Gilles Villeneuve",
+			"country": "CA",
+			"city": "Montréal",
+			"round": 9,
+			"date": "2020-06-14 00:00:00 UTC"
+		},
+		{
+			"id": "french-gp",
+			"name": "French Grand Prix",
+			"circuit": "France Circuit Paul Ricard",
+			"country": "FR",
+			"city": "Le Castellet",
+			"round": 10,
+			"date": "2020-06-28 00:00:00 UTC"
+		},
+		{
+			"id": "austrian-gp",
+			"name": "Austrian Grand Prix",
+			"circuit": "Austria Red Bull Ring",
+			"country": "AT",
+			"city": "Spielberg",
+			"round": 11,
+			"date": "2020-07-05 00:00:00 UTC"
+		},
+		{
+			"id": "british-gp",
+			"name": "British Grand Prix",
+			"circuit": "United Kingdom Silverstone Circuit",
+			"country": "GB",
+			"city": "Silverstone",
+			"round": 12,
+			"date": "2020-07-19 00:00:00 UTC"
+		},
+		{
+			"id": "hungarian-gp",
+			"name": "Hungarian Grand Prix",
+			"circuit": "Hungary Hungaroring",
+			"country": "HU",
+			"city": "Mogyoród",
+			"round": 13,
+			"date": "2020-08-02 00:00:00 UTC"
+		},
+		{
+			"id": "belgian-gp",
+			"name": "Belgian Grand Prix",
+			"circuit": "Belgium Circuit de Spa-Francorchamps",
+			"country": "BE",
+			"city": "Stavelot",
+			"round": 14,
+			"date": "2020-08-30 00:00:00 UTC"
+		},
+		{
+			"id": "italian-gp",
+			"name": "Italian Grand Prix",
+			"circuit": "Italy Autodromo Nazionale Monza",
+			"country": "IT",
+			"city": "Monza",
+			"round": 15,
+			"date": "2020-09-06 00:00:00 UTC"
+		},
+		{
+			"id": "singapore-gp",
+			"name": "Singapore Grand Prix",
+			"circuit": "Singapore Marina Bay Street Circuit",
+			"country": "SG",
+			"city": "Singapore",
+			"round": 16,
+			"date": "2020-09-20 00:00:00 UTC"
+		},
+		{
+			"id": "russian-gp",
+			"name": "Russian Grand Prix",
+			"circuit": "Russia Sochi Autodrom",
+			"country": "RU",
+			"city": "Sochi",
+			"round": 17,
+			"date": "2020-09-27 00:00:00 UTC"
+		},
+		{
+			"id": "japanese-gp",
+			"name": "Japanese Grand Prix",
+			"circuit": "Japan Suzuka International Racing Course",
+			"country": "JP",
+			"city": "Suzuka",
+			"round": 18,
+			"date": "2020-10-11 00:00:00 UTC"
+		},
+		{
+			"id": "cota-gp",
+			"name": "United States Grand Prix",
+			"circuit": "United States Circuit of the Americas",
+			"country": "US",
+			"city": "Austin",
+			"round": 19,
+			"date": "2020-10-25 00:00:00 UTC"
+		},
+		{
+			"id": "mexican-gp",
+			"name": "Mexico City Grand Prix",
+			"circuit": "Mexico Autódromo Hermanos Rodríguez",
+			"country": "MX",
+			"city": "Mexico City",
+			"round": 20,
+			"date": "2020-11-01 00:00:00 UTC"
+		},
+		{
+			"id": "brazilian-gp",
+			"name": "Brazilian Grand Prix",
+			"circuit": "Brazil Autódromo José Carlos Pace",
+			"country": "BR",
+			"city": "São Paulo",
+			"round": 21,
+			"date": "2020-11-15 00:00:00 UTC"
+		},
+		{
+			"id": "abudhabi-gp",
+			"name": "Abu Dhabi Grand Prix",
+			"circuit": "United Arab Emirates Yas Marina Circuit",
+			"country": "AE",
+			"city": "Abu Dhabi",
+			"round": 22,
+			"date": "2020-11-29 00:00:00 UTC"
+		}
+	]
+}

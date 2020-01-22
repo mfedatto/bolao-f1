@@ -1,0 +1,64 @@
+{
+	"constructors": [
+		{
+			"id": "alfa-romeo-ferrari",
+			"name": "Alfa Romeo Racing-Ferrari",
+			"power-unity-id": "ferrari",
+			"chassis": "C39"
+		},
+		{
+			"id": "alphaTauri-honda",
+			"name": "AlphaTauri-Honda",
+			"power-unity-id": "honda",
+			"chassis": "*TBA*"
+		},
+		{
+			"id": "ferrari",
+			"name": "Ferrari",
+			"power-unity-id": "ferrari",
+			"chassis": "*TBA*"
+		},
+		{
+			"id": "haas-ferrari",
+			"name": "Haas-Ferrari",
+			"power-unity-id": "ferrari",
+			"chassis": "*TBA*"
+		},
+		{
+			"id": "mcLaren-renault",
+			"name": "McLaren-Renault",
+			"power-unity-id": "renault",
+			"chassis": "MCL35"
+		},
+		{
+			"id": "mercedes",
+			"name": "Mercedes",
+			"power-unity-id": "mercedes",
+			"chassis": "F1 W11 EQ Power+"
+		},
+		{
+			"id": "racing-point",
+			"name": "Racing Point-BWT Mercedes",
+			"power-unity-id": "bwt-mercedes",
+			"chassis": "*TBA*"
+		},
+		{
+			"id": "red-bull",
+			"name": "Red Bull Racing-Honda",
+			"power-unity-id": "honda",
+			"chassis": "RB16"
+		},
+		{
+			"id": "renault",
+			"name": "Renault",
+			"power-unity-id": "renault",
+			"chassis": "R.S.20"
+		},
+		{
+			"id": "williams-mercedes",
+			"name": "Williams-Mercedes",
+			"power-unity-id": "mercedes",
+			"chassis": "FW43"
+		}
+	]
+}
