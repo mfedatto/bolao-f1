@@ -1,6 +1,3 @@
-import { PowerUnityModel } from "./Models/PowerUnityModel";
-import { TeamModel } from "./Models/TeamModel";
-import { CountryModel } from "./Models/CountryModel";
 import { Countries } from "./Data/Countries";
 import { PowerUnities } from "./Data/PowerUnities";
 import { Teams } from "./Data/Teams";
